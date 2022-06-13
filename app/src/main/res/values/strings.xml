@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Education Institution App</string>
+    <string name="logo_description">Логотип університета</string>
+    <string name="registration_year_template">%s рік</string>
+    <string name="university_full_name_template">%s (%s)</string>
+    <string name="short_name_label">Коротка назва:</string>
+</resources>
